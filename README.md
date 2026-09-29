@@ -35,7 +35,6 @@ eda-diwali-sales/
     └── diwali_sales.csv
 ```
 
-*Note: Update the file and folder names to match your actual repository. Add the dataset only if you have permission to share it.*
 
 ## Analysis Workflow
 
@@ -98,7 +97,7 @@ Install Python 3 and Jupyter Notebook.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/eda-diwali-sales.git
+git clone https://github.com/Ankitjais01/eda-diwali-sales.git
 cd eda-diwali-sales
 ```
 
